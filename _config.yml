@@ -1,0 +1,14 @@
+layout_spectrum: 0.07448151
+typography_spectrum: 0.494952
+color:
+  lightness: 0.6438969
+  brandStrength: 0.6947125
+  saturation: 0.4959653
+  rhythmicContrast: 0.3069653
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Semioticlabs
