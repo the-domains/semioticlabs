@@ -1,14 +1,28 @@
+name: Semioticlabs
+favicon: null
 layout_spectrum: 0.07448151
 typography_spectrum: 0.494952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.6438969
-  brandStrength: 0.6947125
-  saturation: 0.4959653
-  rhythmicContrast: 0.3069653
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-name: Semioticlabs
+    - '#16bcc6'
+    - '#0bb9c2'
+    - '#00b4bd'
+    - '#10bbc4'
+    - '#04b7c0'
+  brandStrength: 0.6875
+  lightness: 0.6438969
+  saturation: 0.375
+  rhythmicContrast: 0.3069653
+purpose: []
