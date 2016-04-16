@@ -4,14 +4,28 @@
         <description><![CDATA[Semioticlabs]]></description>
         <link>https://thegrid.ai/semioticlabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 13:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 15:20:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/semioticlabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fd]]></title>
+            <description><![CDATA[<article><h1>Fd</h1><p>Vorig jaar las Simon Jagers een boek over kunstmatige intelligentie. Nu heeft hij een snelgroeiend bedrijf dat met behulp van algoritmen onderhoudsproblemen voorspelt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42b93dc299ee1d0b486bb45a58ef9006b4a8d4b8.jpg"></article>]]></description>
+            <link>http://fd.nl/morgen/1147475/semiotic-labsik-weet-wanneer-jullie-machines-falen-zei-ik-dat-sloeg-aan</link>
+            <guid isPermaLink="false">ad2385f5-d274-4b6d-aadd-e6b6443267ad</guid>
+            <pubDate>Sat, 16 Apr 2016 15:20:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AlgoDB: A Search Engine for Algorithms]]></title>
             <description><![CDATA[<article><h1>AlgoDB: A Search Engine for Algorithms</h1><p>BY GRANT TIMMERMAN Information Extraction / NLP Machine Learning Network Effects  - in collaboration with Akash Gupta, Kexiang Xu, and Mingjing Zhu During my senior year in the University of Washington's Computer Science Department, I had the honor of taking the Internet Systems Capstone class (CSE454) taught by AI expert, Dan Weld.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a60ba3302ea1d72adbc988b6e85eef78e67146.png"></article>]]></description>
             <link>https://medium.com/@granttimmerman/algodb-a-search-engine-for-algorithms-ff56dee0617d#.5xhwinm0a</link>
             <guid isPermaLink="false">78a532e1-417b-4b02-9b6a-4f4dff77adee</guid>
             <pubDate>Wed, 30 Mar 2016 13:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IT security]]></title>
+            <description><![CDATA[<article><h1>IT security</h1><p>How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow | First Round Review</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13ae12aa99dc3fef435eccc53e56c2e7c85e93f9.jpg"></article>]]></description>
+            <link>urn:uuid:e10967b7-1f84-482d-a71a-25c2b51f8c25</link>
+            <guid isPermaLink="false">48e3b0af-9ca0-473d-a4ca-af7cee0eff3d</guid>
+            <pubDate>Wed, 30 Mar 2016 13:52:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Semiotic Labs | Built to last]]></title>
@@ -26,13 +40,6 @@
             <link>https://thegrid.ai/semioticlabs/07dda057-9aaf-4b1c-9476-16429486e5be/index.html</link>
             <guid isPermaLink="false">07dda057-9aaf-4b1c-9476-16429486e5be</guid>
             <pubDate>Wed, 30 Mar 2016 12:08:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IT security]]></title>
-            <description><![CDATA[<article><h1>IT security</h1><p>How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow | First Round Review</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13ae12aa99dc3fef435eccc53e56c2e7c85e93f9.jpg"></article>]]></description>
-            <link>urn:uuid:e10967b7-1f84-482d-a71a-25c2b51f8c25</link>
-            <guid isPermaLink="false">48e3b0af-9ca0-473d-a4ca-af7cee0eff3d</guid>
-            <pubDate>Wed, 30 Mar 2016 13:52:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
