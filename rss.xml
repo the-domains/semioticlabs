@@ -4,7 +4,7 @@
         <description><![CDATA[Semioticlabs]]></description>
         <link>https://thegrid.ai/semioticlabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 15:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 17:18:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/semioticlabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fd]]></title>
@@ -21,8 +21,8 @@
             <pubDate>Wed, 30 Mar 2016 13:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IT security]]></title>
-            <description><![CDATA[<article><h1>IT security</h1><p>How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow | First Round Review</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13ae12aa99dc3fef435eccc53e56c2e7c85e93f9.jpg"></article>]]></description>
+            <title><![CDATA[How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow]]></title>
+            <description><![CDATA[<article><h1>How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow</h1><p>How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow | First Round Review</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13ae12aa99dc3fef435eccc53e56c2e7c85e93f9.jpg"></article>]]></description>
             <link>urn:uuid:e10967b7-1f84-482d-a71a-25c2b51f8c25</link>
             <guid isPermaLink="false">48e3b0af-9ca0-473d-a4ca-af7cee0eff3d</guid>
             <pubDate>Wed, 30 Mar 2016 13:52:37 GMT</pubDate>
@@ -33,13 +33,6 @@
             <link>http://semioticlabs.com/</link>
             <guid isPermaLink="false">526f33a7-dc23-47b4-907b-dc38cb8de946</guid>
             <pubDate>Wed, 30 Mar 2016 12:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*Jx3X4pD0KdiP8QDhi3d4Og.png">]]></description>
-            <link>https://thegrid.ai/semioticlabs/07dda057-9aaf-4b1c-9476-16429486e5be/index.html</link>
-            <guid isPermaLink="false">07dda057-9aaf-4b1c-9476-16429486e5be</guid>
-            <pubDate>Wed, 30 Mar 2016 12:08:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
